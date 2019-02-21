@@ -1,6 +1,5 @@
 # Serverless Test with React/Java
 
-![Preview of Frontend](preview.png)
 
 ## Front End
 
